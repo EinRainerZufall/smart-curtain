@@ -10365,7 +10365,7 @@
 	(footprint "Samacsys:SM03BSRSSTBLFSN"
 		(layer "F.Cu")
 		(uuid "a80ebe4f-fb7c-4232-8264-6cb803193d0c")
-		(at 161.587 87.7 90)
+		(at 161.587 105 90)
 		(descr "SM03B-SRSS-TB(LF)(SN)-3")
 		(tags "Connector")
 		(property "Reference" "J2"
@@ -11289,7 +11289,7 @@
 	(footprint "Samacsys:SM04B-SRSS-TB_LFSN_"
 		(layer "F.Cu")
 		(uuid "b43f6953-0b8f-41e7-a501-866195907394")
-		(at 163.875 105 90)
+		(at 163.875 91 90)
 		(descr "SM04B-SRSS-TB(LFSN)")
 		(tags "Connector")
 		(property "Reference" "J3"
@@ -11544,7 +11544,7 @@
 			(at 2.5 -4.661 90)
 			(size 0.6 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 6 "/B1")
+			(net 11 "/A2")
 			(pinfunction "2")
 			(pintype "passive")
 			(uuid "878caa57-407a-4816-a754-f423c0738921")
@@ -11553,7 +11553,7 @@
 			(at 3.5 -4.661 90)
 			(size 0.6 1.55)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 11 "/A2")
+			(net 6 "/B1")
 			(pinfunction "3")
 			(pintype "passive")
 			(uuid "f7be2f2e-c090-44e8-835c-4cd0cda6258f")
@@ -16348,7 +16348,7 @@
 	(footprint "Samacsys:QFN50P500X500X90-29N-D"
 		(layer "F.Cu")
 		(uuid "f5603fe6-8390-4248-94f0-20fea515e371")
-		(at 153.5 102)
+		(at 153.5 88)
 		(descr "28-LFCSP-5X5X0.9")
 		(tags "Integrated Circuit")
 		(property "Reference" "U1"
