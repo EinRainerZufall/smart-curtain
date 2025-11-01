@@ -8362,12 +8362,12 @@
 		(uuid "36c3fa9d-00c2-4ff1-9999-30e3cdbba536")
 	)
 	(label "A2"
-		(at 250.19 236.22 0)
+		(at 229.87 238.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "3ac27986-a435-4bd3-991b-d17b5e1c384e")
 	)
@@ -8502,12 +8502,12 @@
 		(uuid "5f61fc43-f8d2-426d-8ba2-98e1075e11bc")
 	)
 	(label "B1"
-		(at 229.87 238.76 180)
+		(at 250.19 236.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "62016397-684c-499d-bbb5-f735d7e565a9")
 	)
